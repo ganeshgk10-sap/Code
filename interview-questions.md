@@ -1,4 +1,4 @@
-# Interview Questions: NBCUniversal Staff Software Engineer (SAP BTP CPI SRE)
+# Interview Questions: Integration Suite
 
 ## Overview
 Based on Ganesh Krishnasingh's resume and the NBCUniversal Staff Software Engineer position, this document contains targeted interview questions organized by key competency areas.
